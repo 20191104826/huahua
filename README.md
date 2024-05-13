@@ -8,5 +8,4 @@
   
 <a href="#stats" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wittyhuahua&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wittyhuahua&hide_border=true">
 </a>
